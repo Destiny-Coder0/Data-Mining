@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/b2175ee4-f6af-438e-88c2-5296c99d9dc5
 # Data-Mining
 Data mining project applying machine learning techniques on real-world data.
 
@@ -34,3 +32,6 @@ How to clean and preprocess real-world datasets
 How to apply and compare multiple classification algorithms
 How to evaluate models using accuracy, precision, recal and f1-score
 The importance of selecting appropriate algorithms for specific tasks
+
+-Links-
+Watch the project explanation video on YouTube: https://youtu.be/Iuax7mp2rU4
