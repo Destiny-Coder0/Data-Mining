@@ -1,4 +1,4 @@
-# Data-Mining
+# Mobile Phone Price Classification Using Machine Learning
 Data mining project applying machine learning techniques on real-world data.
 
 -Classification of Mobile Phone Price Dataset-
